@@ -1,21 +1,21 @@
 
 # Environmental Weather Monitoring Station using ESP32 and Low-Cost Sensors
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to build an affordable, compact **Weather Monitoring Station** suitable for home use. The system uses an **ESP32 microcontroller** and common sensors to measure environmental parameters such as:
 
-- 🌡️ Temperature  
-- 💧 Humidity  
-- 🌞 Light intensity  
-- 🌧️ Rainfall
-- Wind direction (for future updates)   
+-  Temperature  
+-  Humidity  
+-  Light intensity  
+-  Rainfall
+-  Wind direction (for future updates)   
 
 All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Create a low-cost, easy-to-install weather station
 - Collect real-time environmental data
@@ -23,7 +23,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## 📚 Technologies Used
+##  Technologies Used
 
 - **Hardware:**
   - ESP32 NodeMCU
@@ -38,7 +38,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Hardware Setup
 
@@ -71,7 +71,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## ✅ Test Scenarios
+##  Test Scenarios
 
 - **Temperature change:** Blow hot air on DHT22 → Observe app updates
 - **Rain detection:** Pour water on rain sensor → App updates rainfall level
@@ -79,7 +79,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## ✅ Results
+##  Results
 
 - Data updates in real-time on Blynk app
 - Low latency
@@ -87,16 +87,16 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
-- **Ly Hong Chuong** - [Student ID: 21520167]  
-- **Thai Binh Duong Nguyen** - [Student ID: 21521206]  
+- **Ly Hong Chuong** - [Student ID: 21520167] 
+- **Thai Binh Duong Nguyen** - [Student ID: 21521206] 
 
 **Instructor:** Th.S Nguyễn Duy Xuân Bách
 
 ---
 
-## 📅 Timeline  
+##  Timeline  
 **Feb 19, 2024 → June 8, 2024**
 
 ---
