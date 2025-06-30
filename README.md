@@ -8,7 +8,8 @@ This project aims to build an affordable, compact **Weather Monitoring Station**
 - 🌡️ Temperature  
 - 💧 Humidity  
 - 🌞 Light intensity  
-- 🌧️ Rainfall   
+- 🌧️ Rainfall
+- Wind direction (for future updates)   
 
 All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
