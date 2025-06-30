@@ -86,16 +86,6 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ---
 
-## ⚡ Future Improvements
-
-- Optimize power consumption
-- Add more sensors (CO₂, PM2.5, etc.)
-- Develop custom mobile app
-- Integrate data logging and cloud storage
-- Add machine learning for weather prediction
-
----
-
 ## 👨‍💻 Team Members
 
 - **Ly Hong Chuong** - [Student ID: 21520167]  
