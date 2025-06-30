@@ -55,7 +55,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ### 3. Upload Code
 
-- Open `/src/main/main.ino`
+- Open `/src/main.ino`
 - Compile and upload to ESP32
 
 ### 4. Mobile App Setup (Blynk IoT)
