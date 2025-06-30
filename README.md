@@ -55,7 +55,7 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ### 3. Upload Code
 
-- Open `/src/weather_station.ino` (or your main `.ino` file)
+- Open `/src/main/main.ino`
 - Compile and upload to ESP32
 
 ### 4. Mobile App Setup (Blynk IoT)
