@@ -8,8 +8,7 @@ This project aims to build an affordable, compact **Weather Monitoring Station**
 - 🌡️ Temperature  
 - 💧 Humidity  
 - 🌞 Light intensity  
-- 🌧️ Rainfall  
-- 🌬️ Wind direction  
+- 🌧️ Rainfall   
 
 All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
@@ -17,10 +16,9 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
 
 ## 🎯 Project Goals
 
-- Create a **low-cost, easy-to-install weather station**
+- Create a low-cost, easy-to-install weather station
 - Collect real-time environmental data
 - Display sensor data visually on a mobile dashboard
-- Focus on **home-scale deployment**, not industrial use
 
 ---
 
@@ -31,7 +29,6 @@ All data is collected via WiFi and displayed on a mobile app (**Blynk IoT**).
   - DHT22 (Temperature & Humidity sensor)
   - LM393 LDR (Light sensor)
   - MH-RD Rainfall sensor
-  - Optional: Wind direction sensor
 
 - **Software:**
   - Arduino IDE (ESP32 Programming)
